@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../../../expense_tracker"
+		},
+		{
+			"path": "../../android"
+		},
+		{
+			"path": "../../ios"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../linux"
+		},
+		{
+			"path": "../../macos"
+		},
+		{
+			"path": "../../test"
+		},
+		{
+			"path": "../../web"
+		},
+		{
+			"path": "../../windows"
+		}
+	],
+	"settings": {}
+}
